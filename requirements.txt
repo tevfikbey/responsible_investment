@@ -207,7 +207,6 @@ webencodings==0.5.1
 websockets==9.1
 Werkzeug==2.1.2
 widgetsnbextension==3.5.2
-windows-curses==2.3.0
 winshell==0.6
 WooCommerce==3.0.0
 wsproto==1.0.0
