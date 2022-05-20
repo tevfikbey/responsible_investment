@@ -1,4 +1,3 @@
-from matplotlib.font_manager import json_load
 import yfinance as yf
 import pandas as pd
 import numpy as np
