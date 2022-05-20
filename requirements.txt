@@ -39,8 +39,6 @@ decouple==0.0.7
 defusedxml==0.7.1
 discord-webhook==0.14.0
 distlib==0.3.4
-Django==3.1.5
-django-binary-database-files==1.0.10
 docopt==0.6.2
 docstring-to-markdown==0.10
 entrypoints==0.3
