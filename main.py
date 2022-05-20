@@ -11,7 +11,7 @@ import seaborn as sns
 import plotly.figure_factory as ff
 
 st.set_page_config(layout="wide", initial_sidebar_state="expanded")
-st.title('Stock forecast dashboard')
+st.title('Stock Responsible Investment Dashboard')
 
 # ---- Side Bar
 st.sidebar.header("Please Filter Here: ")
