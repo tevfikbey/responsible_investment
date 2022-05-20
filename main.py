@@ -3,6 +3,7 @@ import my_functions as f
 from main_lib import my_finance
 import time
 import datetime
+import matplotlib.pyplot as plt
 from io import BytesIO
 from pyxlsb import open_workbook as open_xlsb
 import pandas as pd
